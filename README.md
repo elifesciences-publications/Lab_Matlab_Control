@@ -1,4 +1,7 @@
 # Lab-Matlab-Control
+
+### This code is associated with the paper from Filipowicz et al., "Pupil diameter encodes the idiosyncratic, cognitive complexity of belief updating". eLife, 2020. http://doi.org/10.7554/eLife.57872
+
 Custom utilities for experimental control for the Gold Lab, including snow-dots (custom utilities written in an object-oriented framework for controlling the components of a psychophyiscs experiment, such as graphics, sounds, etc.), tower-of-psych (custom utilities written in an object-oriented framework to organize and control the flow of a psychophyiscs experiment), and modular tasks (tasks written as subclasses of the [topsTreeNodeTask](https://github.com/TheGoldLab/Lab_Matlab_Control/blob/master/tower-of-psych/foundation/runnable/topsTreeNodeTask.m) class)
 
 
